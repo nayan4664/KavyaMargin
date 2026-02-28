@@ -1,0 +1,12 @@
+.employee-card {
+  margin-top: 20px;
+  background: white;
+  padding: 25px;
+  border-radius: 12px;
+  overflow-x: auto;
+}
+
+.active {
+  color: #16a34a;
+  font-weight: bold;
+}
